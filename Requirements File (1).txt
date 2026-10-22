@@ -1,0 +1,23 @@
+========================================================================
+IBM SkillsBuild Cyber Security BootCamp 2026
+Project Requirements & Dependencies
+========================================================================
+
+Python Version Requirement:
+---------------------------
+Python 3.8 or higher
+
+Project Dependencies:
+---------------------
+This project relies entirely on Python's built-in Standard Library modules.
+No external third-party packages (pip install) are required.
+
+Modules Used:
+1. socket   - Handles low-level network communication and TCP connections.
+2. argparse - Parses command-line arguments and parameters.
+3. datetime - Provides date and timestamp tracking for scan execution logs.
+
+========================================================================
+Note for Submission:
+This file is ready for submission under the name `requirements.txt`.
+========================================================================
